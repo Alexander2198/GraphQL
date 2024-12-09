@@ -13,6 +13,6 @@ then, to activate the virtual environment, we must execute
 install the packages from my requirements.txt with the following command:
 - pip install -r requirements.txt
 and that's it, we can run our project.
-the progrma consist in  information about {"id": 1, "name": "Alice", "age": 30, "characteristics": ["smart", "friendly"],
-"email": "alice@example.com", "address": "123 Main St"},
+the progrma consist in  information about {"id","name", "age", "characteristics",
+"email" and "address" },
 but you personalizate the api in a query only view  user id and age. 
